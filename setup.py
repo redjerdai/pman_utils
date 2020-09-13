@@ -5,7 +5,7 @@ import setuptools
 
 setuptools.setup(
     name="pman_utils",
-    version="0.1.0",
+    version="0.1.2",
     author="Edward Azizov",
     author_email="edazizovv@gmail.com",
     description="A naive package portfolio for securities management",
